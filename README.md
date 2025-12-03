@@ -16,11 +16,11 @@ GET
 POST
 PUT
 DELETE
-# You can also work with JSON
+## You can also work with JSON
 
-# Please star this project
+## Please star this project
 
-## Enjoy your new tool! I think it's helpfil!
+# Enjoy your new tool! I think it's helpfUl!
 
 
 

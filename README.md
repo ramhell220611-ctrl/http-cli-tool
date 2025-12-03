@@ -11,9 +11,17 @@ go build -o http-cli.exe cycles.go
 ## Requirements
 Go 1.19+
 
-## Supported methods
+## Supported operations
 GET
 POST
 PUT
 DELETE
+# You can also work with JSON
+
+# Please star this project
+
+## Enjoy your new tool! I think it's helpfil!
+
+
+
 
